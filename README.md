@@ -8,4 +8,4 @@ You need to play the game of Rock Paper Scissors
 in a 1-to-1 match against the computer.
 
 There will be a 5 game series. Whoever wins the most rounds,
-wins the entire game. (There can be a tie as well)
+wins the entire game. (There is a possibility of tie as well)
