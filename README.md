@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+Author: Pratik Raj
+
 One of the most fun games you can play right now!
 This is a game which I developed using HTML5/CSS3/Flexbox and
 JavaScript.
