@@ -22,7 +22,7 @@ function userPlay() {
       userChoice !== "Paper" &&
       userChoice !== "Scissors"
     ) {
-      alert("Wrong selection!! Try Again😇");
+      alert("Wrong selection! Try Again😇");
     }
     // otherwise in case of valid input, break out of the while loop
     else {
